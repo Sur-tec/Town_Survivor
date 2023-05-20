@@ -15,7 +15,7 @@ public class ThirdPersnShooterController : MonoBehaviour
      
     private ThirdPersonController thirdPersonController;
     private StarterAssetsInputs starterAssetsInputs;
-    Ray ray = new Ray();
+    
         
     private void Awake()
     {
